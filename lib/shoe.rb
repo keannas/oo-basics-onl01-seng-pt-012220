@@ -4,4 +4,4 @@ class Shoe
   end
   
   attr_reader: brand
-  attr_accessor : 
+  attr_accessor : color, size, 

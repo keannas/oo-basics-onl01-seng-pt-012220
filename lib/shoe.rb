@@ -8,4 +8,4 @@ class Shoe
   
   def cobble(do)
     self.condition = "new"
-    puts "Your shoe is a "
+    puts "Your shoe is as good is new"
